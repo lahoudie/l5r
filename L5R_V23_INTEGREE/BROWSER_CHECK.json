@@ -1,0 +1,100 @@
+[
+  {
+    "size": "LARGE",
+    "vw": 1500,
+    "scrollWidth": 1500,
+    "hero": 190,
+    "cards": [
+      [
+        95,
+        536
+      ],
+      [
+        643,
+        335
+      ],
+      [
+        990,
+        415
+      ]
+    ],
+    "rings": [
+      [
+        95,
+        254
+      ],
+      [
+        359,
+        254
+      ],
+      [
+        623,
+        254
+      ],
+      [
+        887,
+        254
+      ],
+      [
+        1151,
+        254
+      ]
+    ],
+    "green": "#234939",
+    "bodyH": 3215,
+    "overflowEls": [],
+    "clickedSkills": true,
+    "skillsVisible": true,
+    "clickedPersonnage": true,
+    "lionAccent": "#986f30"
+  },
+  {
+    "size": "ROLL20",
+    "vw": 1020,
+    "scrollWidth": 1020,
+    "hero": 190,
+    "cards": [
+      [
+        40,
+        400
+      ],
+      [
+        448,
+        237
+      ],
+      [
+        694,
+        286
+      ]
+    ],
+    "rings": [
+      [
+        40,
+        180
+      ],
+      [
+        230,
+        180
+      ],
+      [
+        420,
+        180
+      ],
+      [
+        610,
+        180
+      ],
+      [
+        800,
+        180
+      ]
+    ],
+    "green": "#234939",
+    "bodyH": 3443,
+    "overflowEls": [],
+    "clickedSkills": true,
+    "skillsVisible": true,
+    "clickedPersonnage": true,
+    "lionAccent": "#986f30"
+  }
+]

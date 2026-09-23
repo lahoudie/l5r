@@ -1,0 +1,6 @@
+{
+  "test_generation_css_12_urls": "OK",
+  "no_placeholders": "OK",
+  "example_output_bytes": 94289,
+  "safe_no_real_https_urls_embedded": true
+}

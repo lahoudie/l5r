@@ -1,0 +1,25 @@
+/* ART LAYER: Generate URLs for hosted assets from ASSETS_A_HEBERGER.json.
+   This layer deliberately contains no V1.4 elemental ring replacements. */
+.charsheet {background-image:url("__ASSET_FOND_PARCHEMIN__")!important;background-size:1100px auto!important;background-position:center top!important;background-repeat:repeat-y!important;}
+.charsheet .sheet-v2-shell .sheet-v23-hero{background-image:url("__ASSET_ENTETE_PEINT__")!important;background-size:100% 100%!important;background-repeat:no-repeat!important;}
+.charsheet .sheet-v23-hero-fallback{display:none!important;}
+.charsheet .sheet-v2-panel>h2.sheet-v23-ink-title{background-image:url("__ASSET_PINCEAU_TITRES__")!important;background-size:100% 100%!important;background-position:left center!important;background-repeat:no-repeat!important;}
+.charsheet .sheet-v2-history .sheet-v22-archive-line{border-bottom-color:#ccbeb2!important;}
+.charsheet .sheet-v23-track-icon{background-repeat:no-repeat!important;background-size:contain!important;background-position:center!important;border-radius:0!important;}
+.charsheet .sheet-v23-track-honneur{background-image:url("__ASSET_ICONE_HONNEUR__")!important;}
+.charsheet .sheet-v23-track-gloire{background-image:url("__ASSET_ICONE_GLOIRE__")!important;}
+.charsheet .sheet-v23-track-infamie{background-image:url("__ASSET_ICONE_INFAMIE__")!important;}
+.charsheet .sheet-v23-track-statut{background-image:url("__ASSET_ICONE_STATUT__")!important;}
+.charsheet .sheet-v23-track-souillure{background-image:url("__ASSET_ICONE_SOUILLURE__")!important;}
+.charsheet .sheet-v23-track-ombre{background-image:url("__ASSET_ICONE_OMBRE__")!important;}
+.charsheet .sheet-v23-footer{height:175px;background-image:url("__ASSET_BAS_DE_PAGE__")!important;background-size:100% 100%!important;background-repeat:no-repeat!important;background-position:center bottom!important;}
+.charsheet .sheet-v2-clan-flag[value="Corbeau"] ~ .sheet-v2-shell .sheet-v23-clan-chip{background:url("__ASSET_SCEAU_CORBEAU__") no-repeat center center!important;background-size:contain!important;border:0!important;width:51px!important;height:51px!important;top:6px!important;opacity:.95;}
+.charsheet .sheet-v2-clan-flag[value="Corbeau"] ~ .sheet-v2-shell .sheet-v23-clan-chip:after{display:none!important;}
+.charsheet .sheet-v2-clan-flag[value="Corbeau"] ~ .sheet-v2-shell .sheet-v22-portrait{background-image:url("__ASSET_CORBEAU_PEINT__")!important;background-size:auto 115%!important;background-position:54% center!important;background-repeat:no-repeat!important;}
+.charsheet .sheet-v2-clan-flag[value="Corbeau"] ~ .sheet-v2-shell .sheet-v22-portrait-symbol{opacity:0!important;}
+/* Soft ink landscapes live inside the composition, not as noisy form-field textures. */
+.charsheet .sheet-l5r-progression:after {content:"";pointer-events:none;position:absolute;right:0;bottom:0;width:100%;height:87px;background:url("__ASSET_BAS_DE_PAGE__") no-repeat center bottom;background-size:120% auto;opacity:.16;}
+.charsheet .sheet-l5r-progression>*{position:relative;z-index:1;}
+.charsheet .sheet-v2-summary:after{content:"";pointer-events:none;position:absolute;left:0;bottom:0;width:100%;height:94px;background:url("__ASSET_BAS_DE_PAGE__") no-repeat center bottom;background-size:auto 100%;opacity:.13;}
+.charsheet .sheet-v2-summary{position:relative;overflow:hidden;}
+.charsheet .sheet-v2-summary>*{position:relative;z-index:1;}

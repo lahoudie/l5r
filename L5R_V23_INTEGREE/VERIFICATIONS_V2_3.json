@@ -1,0 +1,15 @@
+{
+  "base": "V2.2",
+  "new": "V2.3 integrated",
+  "original_unique_attributes": 655,
+  "removed_attributes": [],
+  "original_named_roll_actions": 20,
+  "new_named_roll_actions": 20,
+  "script_and_templates_byte_identical": true,
+  "rolltemplates": 5,
+  "existing_repeating_fieldsets": 5,
+  "reused_v14_ring_url_count": 5,
+  "individual_status_icons": 6,
+  "theme_corbeau": "#234939",
+  "Roll20_run": "NOT tested: browser/offline static compatibility only"
+}
